@@ -1,0 +1,130 @@
+{
+  "configVersion": 1,
+  "timestamp": 1664513231488,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/111.3353865f83dc0ac3.js",
+        "/181.f2fe35b973714c6c.js",
+        "/461.45cdebbb43ad31e1.js",
+        "/511.2fda87d00a496d96.js",
+        "/559.c09f68ecc236d007.js",
+        "/650.03346507d95f9638.js",
+        "/793.891c7c3a95802865.js",
+        "/895.ee72b08712701bda.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.0b180e7130bbdb72.js",
+        "/manifest.webmanifest",
+        "/polyfills.6ad652df0d3ddac7.js",
+        "/styles.59c0e56d33cf330b.css"
+      ],
+      "patterns": [
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/bootstrap\\/3\\.4\\.1\\/css\\/bootstrap\\.min\\.css",
+        "https:\\/\\/ajax\\.googleapis\\.com\\/ajax\\/libs\\/jquery\\/3\\.6\\.0\\/jquery\\.min\\.js",
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/bootstrap\\/3\\.4\\.1\\/js\\/bootstrap\\.min\\.js",
+        "https:\\/\\/kasius\\.github\\.io\\/be-accounts\\/remoteEntry\\.js"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/icon_notification.svg",
+        "/assets/img/access.png",
+        "/assets/img/arrow_left_white.svg",
+        "/assets/img/arrowleft.png",
+        "/assets/img/bbee.png",
+        "/assets/img/collapse.png",
+        "/assets/img/contrast.png",
+        "/assets/img/financiamiento_off.png",
+        "/assets/img/home_off.png",
+        "/assets/img/inversiones_off.png",
+        "/assets/img/mas_opciones_off.png",
+        "/assets/img/pagar_off.png",
+        "/assets/img/transfer.png",
+        "/assets/scss/_fonts.scss",
+        "/assets/scss/variables.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/111.3353865f83dc0ac3.js": "944ccad10ce3282efce42b47bebfc51012c7d15a",
+    "/181.f2fe35b973714c6c.js": "143cc8d36ec5a0b408c18d86dafdb67ad7f4e1a3",
+    "/461.45cdebbb43ad31e1.js": "4cb45bee86d742dff09695c9f0860a1ba698253f",
+    "/511.2fda87d00a496d96.js": "97da8763f3df25800be0cad03f5c182efe2764d2",
+    "/559.c09f68ecc236d007.js": "768ee7421e2c33c2bd3e8eddd1bf8bf092a81df2",
+    "/650.03346507d95f9638.js": "ac9c291e7fd5e4849bc09ff8b56c401a2df56ed6",
+    "/793.891c7c3a95802865.js": "6d5bb474363beb95d16bb039621a3d76298a160b",
+    "/895.ee72b08712701bda.js": "fc6d41300adbacbd9d4ec826e45dcb45fee6179a",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon_notification.svg": "95bca553b37422ce38cd080f4c7385f2920cc248",
+    "/assets/img/access.png": "6dcff172b52fbd30298d448b39196c6552960220",
+    "/assets/img/arrow_left_white.svg": "ac08b6285907c71980d9d2ea5747968d0ca275a7",
+    "/assets/img/arrowleft.png": "9c2ac5f83278ab64122a33711ad163f368f84734",
+    "/assets/img/bbee.png": "38d49ca99f62fd78b150f1808397bd5c2d5b9cfd",
+    "/assets/img/collapse.png": "4467b4f4d1b8cb94f4f02aec86d449507f43b99c",
+    "/assets/img/contrast.png": "5d5950a7327125177e5311df670f39bff700f442",
+    "/assets/img/financiamiento_off.png": "dab81490ec3c748b046de76daf8c7f890a3f07c2",
+    "/assets/img/home_off.png": "81e81aa1bbd240beeae1a911c52d7f4500e89b7f",
+    "/assets/img/inversiones_off.png": "69143c2460b4ffa534b165301621daad75409407",
+    "/assets/img/mas_opciones_off.png": "bcc47dd9aa3b4a6415e63d2a64aed3df46301a7c",
+    "/assets/img/pagar_off.png": "8689231cef090840f0dfefff59509df98c366f5c",
+    "/assets/img/transfer.png": "628cb406e2ea4c7c4736593f42ee63f7b62e8835",
+    "/assets/scss/_fonts.scss": "51df400a7e5fa10c685d7258c60e1020225a3854",
+    "/assets/scss/variables.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "20ee7cb03cf4e75807721ebf1d220a48555da595",
+    "/main.0b180e7130bbdb72.js": "e42befd0017e1378a97b09e7a1b4d46b4ca0304a",
+    "/manifest.webmanifest": "74242570684cce596d4721e4238369fe2cfdef70",
+    "/polyfills.6ad652df0d3ddac7.js": "7f7b0b93f4b8967ad4cc75e14771b2705c3ba027",
+    "/styles.59c0e56d33cf330b.css": "5e2e4465bc69ccf70d8be2a5e124addf04fd042b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
