@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664513856323,
+  "timestamp": 1664515218246,
   "index": "/host/index.html",
   "assetGroups": [
     {
@@ -45,6 +45,7 @@
         "/host/assets/icons/icon-144x144.png",
         "/host/assets/icons/icon-152x152.png",
         "/host/assets/icons/icon-192x192.png",
+        "/host/assets/icons/icon-256x256.png",
         "/host/assets/icons/icon-384x384.png",
         "/host/assets/icons/icon-512x512.png",
         "/host/assets/icons/icon-72x72.png",
@@ -81,9 +82,10 @@
     "/host/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/host/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/host/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/host/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/host/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/host/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/host/assets/icons/icon-192x192.png": "8b2dbe37942b96c0bae8964828325cbaae8f72ae",
+    "/host/assets/icons/icon-256x256.png": "a7478e932d2a23e4f830c1aa897f470dd3c003d6",
+    "/host/assets/icons/icon-384x384.png": "fff03c4e4c7b25427c9de52adb9218f703a46819",
+    "/host/assets/icons/icon-512x512.png": "6a725c560c6f65e717689c739e672900bf70ac0d",
     "/host/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/host/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/host/assets/icons/icon_notification.svg": "95bca553b37422ce38cd080f4c7385f2920cc248",
@@ -102,7 +104,7 @@
     "/host/assets/scss/_fonts.scss": "51df400a7e5fa10c685d7258c60e1020225a3854",
     "/host/assets/scss/variables.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/host/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/host/index.html": "17cc1ee78fa1b2d3705dcf20dc20ef2058dcf538",
+    "/host/index.html": "72af7d054425ba77c98fb3a0dbaffa639dfc5f46",
     "/host/main.0b180e7130bbdb72.js": "e42befd0017e1378a97b09e7a1b4d46b4ca0304a",
     "/host/manifest.webmanifest": "74242570684cce596d4721e4238369fe2cfdef70",
     "/host/polyfills.6ad652df0d3ddac7.js": "7f7b0b93f4b8967ad4cc75e14771b2705c3ba027",
